@@ -15,7 +15,7 @@ I choose Fer2013 as the training dataset. Because of the size restriction of the
 ```
 python train.py --train=yes
 ```
-In addition, if you want to train and evaluateL
+In addition, if you want to train and evaluate
 ```
 python train.py --train=yes --evaluate=yes
 ```
