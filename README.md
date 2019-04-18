@@ -24,6 +24,8 @@ python train.py --train=yes --evaluate=yes
 ### 4. Calculate the test accuracy
 python train.py --evaluate=yes
 
-### 5. Run the g'''
+### 5. Run the gui
+'''
 python test_gui.py
+'''
 You can use the images under the "test_imgs" folder, or you can just use your own daily photos.
