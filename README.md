@@ -8,7 +8,7 @@ In this project, I am going to use a Convolutional Neural Network(CNN) to implem
 * pymongo
 * network
 
-If you want to train the model by yourself, please go ahead with my instruction, or you want to just test the gui the the model I have trained, just type "python test_gui.py".
+If you want to train the model by yourself, please go ahead with my instruction, or you want to just test the gui the the model I have trained, you should download the files under the "best_model" folder firstly, then run the command "python test_gui.py".
 ### 1. Download dataset
 I choose Fer2013 as the training dataset. Because of the size restriction of the uploading files, I decide to attach a link to download the related dataset. You can find it in the "dataset" folder.
 
