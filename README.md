@@ -36,6 +36,6 @@ python train.py --evaluate=yes
 ```
 python test_gui.py
 ```
-You can use the images under the "test_imgs" folder, or you can just use your own daily photos.
-###6. Demo
+You can use the images under the "test_imgs" folder, or you can just use your own daily photos with different resolutions.
+### 6. Demo
 You can click the link to watch the demo: https://www.youtube.com/watch?v=Rcfiw0s2xa0
