@@ -1,12 +1,12 @@
 # csce636_facial_expression_recognition
 In this project, I am going to use a Convolutional Neural Network(CNN) to implement the facail expressions recognition from distinct images. First of all, we should install dependencies.
-*tensorflow
-*tflearn
-*numpy
-*argparse
-*hyperopt
-*pymongo
-*network
+* tensorflow
+* tflearn
+* numpy
+* argparse
+* hyperopt
+* pymongo
+* network
 
 ### 1. Download dataset
 I choose Fer2013 as the training dataset. Because of the size restriction of the uploading files, I decide to attach a link to download the related dataset. You can find it in the "dataset" folder.
@@ -24,6 +24,6 @@ python train.py --train=yes --evaluate=yes
 ### 4. Calculate the test accuracy
 python train.py --evaluate=yes
 
-### 5. Run the gui
+### 5. Run the g'''
 python test_gui.py
 You can use the images under the "test_imgs" folder, or you can just use your own daily photos.
